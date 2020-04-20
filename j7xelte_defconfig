@@ -2637,7 +2637,6 @@ CONFIG_I2C_RTC6213N=y
 # Media ancillary drivers (tuners, sensors, i2c, frontends)
 #
 CONFIG_MEDIA_SUBDRV_AUTOSELECT=y
-CONFIG_MEDIA_ATTACH=y
 
 #
 # Audio decoders, processors and mixers
